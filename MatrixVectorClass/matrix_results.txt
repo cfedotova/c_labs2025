@@ -1,0 +1,12 @@
+Addition
+6 8
+10 12
+Subtraction
+-4 -4
+-4 -4
+Multiplication
+19 22
+43 50
+Division
+3 -2
+2 -1
